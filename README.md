@@ -13,7 +13,9 @@ A modern movie app built with Next.js.
 - React
 - CSS
 
-First, run the development server:
-npm run dev
+## Movie App Demo
+https://drive.google.com/file/d/1ohNaWBj7kaqhPAt0C8OJQDCZI1xqI_D2/view?usp=sharing
 
+### First, run the development server:
+npm run dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
